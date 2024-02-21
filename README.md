@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Barecha Ashenafi aka @Dali23
+- I am 4th year Software Engineering student
 - 👀 I’m interested in website development and software testing
 - 🌱 I’m currently learning in Haramaya University 
 - 💞️ I’m looking to collaborate on website development 
