@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dali1234567890
+- 👋 Hi, I’m @Dali23
 - 👀 I’m interested in website development and software testing
 - 🌱 I’m currently learning in Haramaya University 
 - 💞️ I’m looking to collaborate on website development 
